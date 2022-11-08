@@ -10,4 +10,6 @@
 
 ## Games
 
-[Castle Crashers](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D) (NEEDS [CROSSOVER](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cuY29kZXdlYXZlcnMuY29tL2Nyb3Nzb3Zlci9kb3dubG9hZA%3D%3D))<br>
+[Castle Crashers](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D) (NEEDS [CROSSOVER](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cuY29kZXdlYXZlcnMuY29tL2Nyb3Nzb3Zlci9kb3dubG9hZA%3D%3D), HOW TO [SETUP](https://video-streamer.pxzlz.repl.co/))<br>
+
+
