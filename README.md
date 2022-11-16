@@ -4,15 +4,7 @@
 
 #
 
-## CrossOver Trial?
-
-Please [refer](https://github.com/wockymane/Crossover4Free) back to my other repo on how to extend your trial.
-
-## Redist
-
-[DirectX](https://www.mediafire.com/file/yqy0rvrz8yu48yw/directx_Jun2010_redist.exe/file), [VC++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
-
-## Games
+## Info
 
 Games that have a tag like (CrossOver) will require the right software to run.
 
@@ -20,6 +12,14 @@ Games that have a tag like (CrossOver) will require the right software to run.
 
 [RPCS3](https://download-server.pxzlz.repl.co/rpcs3)
 
+## Games
+
 • [Castle Crashers](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D) (CrossOver, Redist Required, 200MB)<br>
 • [Call of Duty: World at War](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file) (CrossOver, Redist Required, 7.2GB)<br>
-• [GTA V](https://nzody.herokuapp.com/service/hvtrs8%2F-ic922007.ws%2Capcjite%2Copg-27%2Fktgmq%2Fercnf-vhgfv-cuvo%2Fv%2Fpna%7Bsvavimn%2F3-Gpald'22Tjedt'22Awtm%2500T%2500'5%40Fkx'22%250B'22Anl'22DNC'5F%2500%40LGS21%3A05.xir) (RPCS3, 19.2GB)
+• [GTA V](https://nzody.herokuapp.com/service/hvtrs8%2F-ic922007.ws%2Capcjite%2Copg-27%2Fktgmq%2Fercnf-vhgfv-cuvo%2Fv%2Fpna%7Bsvavimn%2F3-Gpald'22Tjedt'22Awtm%2500T%2500'5%40Fkx'22%250B'22Anl'22DNC'5F%2500%40LGS21%3A05.xir) (RPCS3, Firmware Required , 19.2GB)
+
+
+
+## Files
+
+[DirectX](https://www.mediafire.com/file/yqy0rvrz8yu48yw/directx_Jun2010_redist.exe/file), [VC++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
