@@ -16,4 +16,8 @@ Games that have a tag like (CrossOver) will require the right software to run.
 
 ## Files
 
+CrossOver:
 [DirectX](https://www.mediafire.com/file/yqy0rvrz8yu48yw/directx_Jun2010_redist.exe/file), [VC++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+
+RPCS3:
+[Firmware](https://download-server.pxzlz.repl.co/ps3firmware)
