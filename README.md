@@ -14,7 +14,12 @@ Please [refer](https://github.com/wockymane/Crossover4Free) back to my other rep
 
 ## Games
 
-Games listed here with "CrossOver" will require CrossOver ([Download it here](https://nzody.herokuapp.com/service/hvtrs8%2F-mgdka%2Ccmdgwgateps%2Ccmm-pwb-cpoqsmvgr-czmcc-dgmm%2Farmsqotep-02%2C0%2C1%2Czkp)). How to [setup CrossOver games](https://video-streamer.pxzlz.repl.co/).
+Games that have a tag like (CrossOver) will require the right software to run.
+
+[CrossOver](https://nzody.herokuapp.com/service/hvtrs8%2F-mgdka%2Ccmdgwgateps%2Ccmm-pwb-cpoqsmvgr-czmcc-dgmm%2Farmsqotep-02%2C0%2C1%2Czkp) ([Tutorial](https://video-streamer.pxzlz.repl.co/))
+
+[RPCS3](https://download-server.pxzlz.repl.co/rpcs3)
 
 • [Castle Crashers](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D) (CrossOver)<br>
-• [Call of Duty: World at War](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file) (CrossOver, MOD SUPPORT)
+• [Call of Duty: World at War](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file) (CrossOver, MOD SUPPORT)<br>
+• [GTA V](https://nzody.herokuapp.com/service/hvtrs8%2F-ic922007.ws%2Capcjite%2Copg-27%2Fktgmq%2Fercnf-vhgfv-cuvo%2Fv%2Fpna%7Bsvavimn%2F3-Gpald'22Tjedt'22Awtm%2500T%2500'5%40Fkx'22%250B'22Anl'22DNC'5F%2500%40LGS21%3A05.xir) (RPCS3)
