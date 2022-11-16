@@ -10,7 +10,7 @@ Please [refer](https://github.com/wockymane/Crossover4Free) back to my other rep
 
 ## Redist
 
-[DirectX](https://www.mediafire.com/file/yqy0rvrz8yu48yw/directx_Jun2010_redist.exe/file)
+[DirectX](https://www.mediafire.com/file/yqy0rvrz8yu48yw/directx_Jun2010_redist.exe/file), [VC++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
 ## Games
 
