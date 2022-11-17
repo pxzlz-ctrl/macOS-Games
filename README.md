@@ -4,10 +4,9 @@ Games that have a tag like (CrossOver) will require the right software to run.
 
 ## Games
 
-• [Castle Crashers](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D) (CrossOver, Redist Required) (~200MB)<br>
-• [Call of Duty: World at War](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file) (CrossOver, Redist Required) (7.2GB)<br>
+• [Castle Crashers](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D) (CrossOver, DX & VC++ Required) (~200MB)<br>
+• [Call of Duty: World at War](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file) (CrossOver, DX & VC++ Required) (7.2GB)<br>
 • [GTA V](https://archive.org/details/grand-theft-auto-v-playstation-3) (RPCS3, Firmware Required (19.2GB)<br>
-• [Plutonium](https://download-server.pxzlz.repl.co/plutonium) (CrossOver, Redist and .NET 4.8 required) (Size depends on game)
 
 
 ## Files
