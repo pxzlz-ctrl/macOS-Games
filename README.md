@@ -10,6 +10,11 @@ Games that have a tag like (CrossOver) will require the right software to run.
 
 **Call of Duty:**<br>
 • World at War [[DOWNLOAD](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file)] (CrossOver, DX & VC++ Required)
+• Modern Warfare [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)
+• Modern Warfare 2 [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)
+• Modern Warfare 3 [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)
+
+
 
 **Hack and Slash:**<br>
 • Castle Crashers [[DOWNLOAD](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D)] (CrossOver, DX & VC++ Required)
