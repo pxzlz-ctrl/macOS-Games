@@ -5,10 +5,7 @@
 ## Catalog
 
 **Call of Duty:**<br>
-• World at War [[DOWNLOAD](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file)] (CrossOver, DX & VC++ Required)<br>
-• Modern Warfare [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)<br>
-• Modern Warfare 2 [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)<br>
-• Modern Warfare 3 [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)<br>
+• World at War [[DOWNLOAD](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file)] (CrossOver, DX & VC++ Required) (MOD SUPPORT)<br>
 
 
 
