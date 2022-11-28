@@ -1,12 +1,18 @@
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/1724px-Apple_logo_grey.svg.png" height="64" alt="Project Logo"></p>
+<h3 align="center">macOS Games</h3>
+<p align="center">🕹 Working games for macOS (12+)</p>
+
 ## Info
 
 Games that have a tag like (CrossOver) will require the right software to run.
 
-## Games
+## Catalog
 
-• [Castle Crashers](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D) (CrossOver, DX & VC++ Required) (~200MB)<br>
-• [Call of Duty: World at War](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file) (CrossOver, DX & VC++ Required) (7.2GB)<br>
-• [Assassin's Creed II](https://archive.org/download/assassins-creed-2/ac2.iso) (Haven't Tested)
+**Call of Duty:**<br>
+• World at War [[DOWNLOAD](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file)] (CrossOver, DX & VC++ Required)
+
+**Hack and Slash:**<br>
+• Castle Crashers [[DOWNLOAD](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D)] (CrossOver, DX & VC++ Required)
 
 
 ## Files
