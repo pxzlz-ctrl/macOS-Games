@@ -2,17 +2,13 @@
 <h3 align="center">macOS Games</h3>
 <p align="center">🕹 Working games for macOS (12+)</p>
 
-## Info
-
-Games that have a tag like (CrossOver) will require the right software to run.
-
 ## Catalog
 
 **Call of Duty:**<br>
-• World at War [[DOWNLOAD](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file)] (CrossOver, DX & VC++ Required)
-• Modern Warfare [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)
-• Modern Warfare 2 [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)
-• Modern Warfare 3 [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)
+• World at War [[DOWNLOAD](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file)] (CrossOver, DX & VC++ Required)<br>
+• Modern Warfare [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)<br>
+• Modern Warfare 2 [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)<br>
+• Modern Warfare 3 [[DOWNLOAD](https://github.com/wockymane/macOS-Games)] (NOT READY)<br>
 
 
 
