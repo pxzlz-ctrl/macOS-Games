@@ -2,13 +2,17 @@
 <h3 align="center">macOS Games</h3>
 <p align="center">🕹 Working games for macOS (12+)</p>
 
+## Coming Soon
+
+• Super Smash Bros. Ultimate (v13.0.0, Comes with all DLC)
+
 ## Catalog
 
 **FPS:**<br>
 • Call of Duty: World at War [[DOWNLOAD](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file)] (CrossOver, DX & VC++ Required)
 
 **Hack and Slash:**<br>
-• Castle Crashers [[DOWNLOAD](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D)] (CrossOver, DX & VC++ Required)
+• Castle Crashers [[DOWNLOAD](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D)] (CrossOver, DX & VC++ Required)<br>
 
 ## Files
 
