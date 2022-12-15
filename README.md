@@ -15,7 +15,7 @@
 • [Castle Crashers](https://nzody.herokuapp.com/?link=aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3ZjZHdxd3ZpY3BmdnJscC9DYXN0bGUuQ3Jhc2hlcnMudjIuOC56aXAvZmlsZQ%3D%3D) (CrossOver, DX & VC++ Required)<br>
 
 **Emulation:**<br>
-• [Super Smash Bros. Ultimate](https://www.mediafire.com/file/gj29s99nu9fh2cj/Super+Smash+Bros.+Ultimate.zip/file) (Ryujinx, Firmware & prod.keys Required) (THIS IS ADVANCED I WILL POST A TUTORIAL ON THIS)
+• [Super Smash Bros. Ultimate](https://www.mediafire.com/file/gj29s99nu9fh2cj/Super%20Smash%20Bros.%20Ultimate.zip) (Ryujinx, Firmware & prod.keys Required) (THIS IS ADVANCED I WILL POST A TUTORIAL ON THIS)
 
 
 ## Files
