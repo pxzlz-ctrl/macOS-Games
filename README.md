@@ -16,7 +16,7 @@
 
 ## Files
 
-CrossOver & Redist:<br>
+CrossOver:<br>
   • [CrossOver](https://nzody.herokuapp.com/service/hvtrs8%2F-mgdka%2Ccmdgwgateps%2Ccmm-pwb-cpoqsmvgr-czmcc-dgmm%2Farmsqotep-02%2C0%2C1%2Czkp)<br>
   • [DirectX](https://www.mediafire.com/file/yqy0rvrz8yu48yw/directx_Jun2010_redist.exe/file)<br>
   • [VC++](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)<br>
