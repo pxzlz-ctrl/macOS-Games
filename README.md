@@ -2,10 +2,6 @@
 <h3 align="center">macOS Games</h3>
 <p align="center">🕹 Working games for macOS (12+)</p>
 
-## Coming Soon
-
-• Super Smash Bros. Ultimate (v13.0.1, Comes with all DLC)
-
 ## Catalog
 
 **FPS:**<br>
