@@ -2,7 +2,8 @@
 <h3 align="center">macOS Games</h3>
 <p align="center">🕹 Working games for macOS (12+)</p>
 
-## Catalog
+##
+<p align="center"><img src="https://raw.githubusercontent.com/wockymane/macOS-Games/main/assets/catalog.jpg"></p>
 
 **FPS:**<br>
 • [Call of Duty: World at War](https://www.mediafire.com/file/zofhbuaq7quqgnw/Call+of+Duty+World+at+War+ALL+DLC.zip/file) (CrossOver, DX & VC++ Required)
@@ -13,8 +14,9 @@
 **Emulation:**<br>
 • [Super Smash Bros. Ultimate](https://www.mediafire.com/file/gj29s99nu9fh2cj/Super%20Smash%20Bros.%20Ultimate.zip) (Ryujinx, Firmware & prod.keys Required) (Will make a tutorial later.)
 
+##
+<p align="center"><img src="https://raw.githubusercontent.com/wockymane/macOS-Games/main/assets/files.png"></p>
 
-## Files
 
 CrossOver:<br>
   • [CrossOver](https://nzody.herokuapp.com/service/hvtrs8%2F-mgdka%2Ccmdgwgateps%2Ccmm-pwb-cpoqsmvgr-czmcc-dgmm%2Farmsqotep-02%2C0%2C1%2Czkp)<br>
@@ -27,6 +29,7 @@ Ryujinx:<br>
   • [Firmware](https://www.mediafire.com/file/bunsftx1ajieaxz/Firmware+15.0.0.zip/file)<br>
   • [Prod and Title Keys](https://www.mediafire.com/file/0mmwi8wuribcmjf/Keys.zip/file)<br>
 
-## Tutorials
+##
+<p align="center"><img src="https://raw.githubusercontent.com/wockymane/macOS-Games/main/assets/tutorials.png"></p>
 
 [CrossOver](https://video-streamer.pxzlz.repl.co/)<br>
