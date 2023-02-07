@@ -1,0 +1,53 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+label {
+  cursor: pointer;
+  display: inline-block;
+  height: 30px;
+  width: 60px;
+  background-color: grey;
+  border-radius: 30px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+label:before {
+  content: "";
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  background-color: white;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  transition: 0.3s ease;
+}
+
+input[type="checkbox"]:checked + label:before {
+  transform: translateX(26px);
+}
+
+input[type="checkbox"]:checked {
+  background-color: black;
+}
+
+input[type="checkbox"]:checked + label {
+  background-color: white;
+}
+
+input[type="checkbox"]:checked + label:before {
+  background-color: black;
+}
+
+input[type="checkbox"]:checked + label {
+  color: black;
+}
