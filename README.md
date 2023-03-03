@@ -11,9 +11,6 @@
 Want to help test games?<br>
 Go to [Discussions](https://github.com/pxzlz-ctrl/macOS-Games/discussions/categories/game-request) and submit a game!
 
-##
-
-Performance Chart:
 | ![POOR](https://placehold.co/15x15/f03c15/f03c15.png) | ![MEDIUM](https://placehold.co/15x15/FFA500/FFA500.png) | ![GOOD](https://placehold.co/15x15/00FF00/00FF00.png) |
 | ------------- | ------------- | ----------- |
 |     Poor      |     Medium    |    Normal   |
