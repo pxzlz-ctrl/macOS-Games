@@ -23,7 +23,7 @@ Go to [Discussions](https://github.com/pxzlz-ctrl/macOS-Games/discussions/catego
 | [Super Smash Bros. Ultimate](https://www.mediafire.com/file/gj29s99nu9fh2cj/Super%20Smash%20Bros.%20Ultimate.zip)  | [Ryujinx](https://github.com/Ryujinx/release-channel-macos/releases/latest); [Firmware](https://www.mediafire.com/file/bunsftx1ajieaxz/Firmware+15.0.0.zip/file); [Keys](https://www.mediafire.com/file/0mmwi8wuribcmjf/Keys.zip/file)  | ![GOOD](https://placehold.co/15x15/00FF00/00FF00.png) | YES |
 | [The Forest](https://www.mediafire.com/file/aw95eo1qad35nyj/The.Forest.v1.12.zip/file)  | [CrossOver](https://download-server.pxzlz.repl.co/crossover); [DirectX](https://www.mediafire.com/file/yqy0rvrz8yu48yw/directx_Jun2010_redist.exe/file)  | ![GOOD](https://placehold.co/15x15/00FF00/00FF00.png) | ? |
 | Left 4 Dead 2  | [CrossOver](https://download-server.pxzlz.repl.co/crossover); [Steam](https://womginx.pxzlz.repl.co/main/https:/media.steampowered.com/client/installer/SteamSetup.exe)  | ![GOOD](https://placehold.co/15x15/00FF00/00FF00.png) | YES |
-| [7 Days to Die](https://download-server.pxzlz.repl.co/crossover)  | [CrossOver](https://www.mediafire.com/file/nqsbr6c2zjirbdb/CrossOver.zip/file); [DirectX](https://www.mediafire.com/file/yqy0rvrz8yu48yw/directx_Jun2010_redist.exe/file); | ![GOOD](https://placehold.co/15x15/00FF00/00FF00.png) | YES |
+| [7 Days to Die](https://www.mediafire.com/file/ycphgcb8nwnpddw/7.Days.to.Die.Alpha.20.6.b9.zip/file)  | [CrossOver](https://download-server.pxzlz.repl.co/crossover); [DirectX](https://www.mediafire.com/file/yqy0rvrz8yu48yw/directx_Jun2010_redist.exe/file); | ![GOOD](https://placehold.co/15x15/00FF00/00FF00.png) | YES |
 
 ## Files
 
