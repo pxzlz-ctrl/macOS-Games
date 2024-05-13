@@ -2,10 +2,6 @@
 <h3 align="center">macOS Games</h3>
 <p align="center">🕹 A repository filled with macOS games</p>
 
-## Ultra Games Manager (Coming Soon)
-
-<p align="center"><img src="https://raw.githubusercontent.com/pxzlz-ctrl/macOS-Games/main/img/UltraGameManagerGUI.png?_sm_au_=iVVnVrVq2wN3sRvMQ404vK77VjJt4" height="400"></p>
-
 ##
 
 Want to help test games?<br>
